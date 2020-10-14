@@ -1,0 +1,10 @@
+## Interface: 90000
+## Title: BasicCastingBars
+## Notes: Move that casting bar frame!
+## Author: Azmodeus, Funkydude
+## X-Category: CastingBars
+## X-License: All Rights Reserved: You are free to fork and modify on GitHub, please ask us about anything else.
+## SavedVariables: BasicCastingBarsOptions
+## Version: v9.0.1
+
+BasicCastingBars.lua
